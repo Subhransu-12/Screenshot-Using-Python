@@ -15,3 +15,7 @@ ss_button = tk.Button(text="TAKE SCREENSHOT",command=take_ss, font=15)
 window.create_window(100, 100, window=ss_button)
 
 root.mainloop()
+
+//Terminal: 
+//pip install pillow
+//pip install pyautogui
